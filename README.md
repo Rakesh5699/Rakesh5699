@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rakesh5699
+- 👋 Hi, I’m @Rakesh
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate with a data science team.
